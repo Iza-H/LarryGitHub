@@ -2,4 +2,4 @@
 
 Esta seria de libros cuantan la historia de hacker de los que hay pocos.
 
-**Izabela Holota**Git Lover
+**Izabela Holota**Git and Larry Plotter Lover
